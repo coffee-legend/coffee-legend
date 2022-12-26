@@ -1,16 +1,13 @@
-### Hi there 👋
+Dự án Tốt nghiệp: Quản lý quán coffee - Coffee Legend
+Thực hiện bởi nhóm: Dev boys
+Nguyễn Minh Hiếu: Trưởng nhóm
+Lý Thanh Tùng: Thành viên
+Trần Hải Bình: Thành viên
+1. Kiến thức & Công nghệ áp dụng: Java, Spring Boot, React JS, HTML, CSS, JavaScript, JSX, My SQL, GitHub, Bootstrap,..
+2. Link Trello: Phân chia công việc - Theo mô hình tổ chức SCRUM:
 
-<!--
-**coffee-legend/coffee-legend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3. Link Use Case: Trung
 
-Here are some ideas to get you started:
+4. Link Test Case: Hằng
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+5. Link sản phẩm:
